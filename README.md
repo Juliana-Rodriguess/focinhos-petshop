@@ -3,7 +3,7 @@
 Site de um pet shop, feito na Fase 1 do Projeto da Disciplina
 Fundamentos de Sistemas Web (PUCRS Online). Nesta fase só existe HTML5, sem CSS, Bootstrap ou JavaScript.
 
-Site publicado (GitHub Pages):
+Site publicado (GitHub Pages): https://juliana-rodriguess.github.io/focinhos-petshop/
 
 ## Páginas
 
